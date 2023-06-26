@@ -1,0 +1,46 @@
+{
+  "words": [
+    {
+      "id": "1",
+      "title": "debouch",
+      "definition": "to come forth; emerge.",
+      "type": "verb",
+      "example": "Passengers in festive clothing debouched from the crowded subway on their way to the parade."
+    },
+    {
+      "id": "2",
+      "title": "enisle",
+      "definition": "to make an island of.",
+      "type": "verb",
+      "example": "When the dam burst, the torrent of water filled the valley, enisling the highest points of land therein."
+    },
+    {
+      "id": "3",
+      "title": "esperance",
+      "definition": "the feeling that what is wanted can be had or that events will turn out for the best.",
+      "type": "noun",
+      "example": "The players were full of esperance about their new coach."
+    },
+    {
+      "id": "4",
+      "title": "bremsstrahlung",
+      "definition": "radiation emitted by a charged particle when accelerating.s",
+      "type": "noun",
+      "example": "The electron hovered around the atomic nucleus, releasing bremsstrahlung as it lost some speed."
+    },
+    {
+      "id": "5",
+      "title": "craic",
+      "definition": "fun and entertainment, especially good conversation and company.",
+      "type": "noun",
+      "example": "The recent graduates smiled sadly as they agreed that they would miss the craic."
+    },
+    {
+      "title": "sad",
+      "example": "he is sad",
+      "definition": "in a state of sorrow",
+      "type": "noun",
+      "id": "yF2oguN"
+    }
+  ]
+}
